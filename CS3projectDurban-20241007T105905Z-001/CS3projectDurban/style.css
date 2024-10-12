@@ -1,0 +1,105 @@
+body.body1{
+    background-image: url(images/citylightpol.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat; 
+    background-attachment:fixed;
+}
+body.body2{
+    background-image: url(images/background2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat; 
+    background-attachment:fixed;
+}
+h1{
+    font-family:'Montserrat', sans-serif;
+    color:yellow;
+    text-align:center;
+}
+h2{
+    font-family:'Montserrat', sans-serif;
+    color:yellow;
+    text-align:center;
+    margin-bottom:5px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color:white;
+    text-align: justify;
+    margin: 0 auto;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color:yellow;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+.lelinks {
+    text-align: center;
+    margin-top: 20px;
+}
+.lelinks a{
+    display: inline-block;
+    margin: 0 7px;
+}
+a:hover{
+    background-color: yellow;
+    color:black;
+}
+.imageone {
+    text-align: center;
+    margin-top: 20px; 
+}
+.imageone img {
+    max-width: 20%; 
+    height: auto; 
+}
+figcaption{
+    color:white;
+    font-family:'Montserrat', sans-serif;
+}
+.imagetwo {
+    text-align: center;
+    margin-top: 20px; 
+}
+.imagetwo img {
+    max-width: 30%; 
+    height: auto; 
+}
+.imagethree {
+    text-align: center;
+    margin-top: 20px; 
+}
+.imagethree img {
+    max-width: 30%; 
+    height: auto; 
+}
+.imagefour {
+    text-align: center;
+    margin-top: 20px; 
+}
+.imagefour img {
+    max-width: 30%; 
+    height: auto; 
+}
+.imagefive {
+    text-align: center;
+    margin-top: 20px; 
+}
+.imagefive img {
+    max-width: 30%; 
+    height: auto; 
+}
+.imagesix {
+    text-align: center;
+    margin-top: 20px; 
+}
+.imagesix img {
+    max-width: 30%; 
+    height: auto; 
+}
